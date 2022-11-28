@@ -2,7 +2,7 @@
 
 Adds featurs to default Magento Catalog functionality:
 
-  - Limit output of related products at storefront.
+  - Limit output of related products at storefront (use config option "Products count at storefront" at Stores / Configuration / Catalog / Catalog / Related Products).
 
 ### Installation
 
