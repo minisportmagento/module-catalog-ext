@@ -1,0 +1,17 @@
+{
+    "name": "minisportmagento/module-catalog-ext",
+    "description": "Magento 2 Catalog extended features",
+    "keywords": [
+        "magento 2 catalog extended",
+        "minisport"
+    ],
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": "MIT",
+    "autoload": {
+        "files": [ "registration.php" ],
+        "psr-4": {
+            "Minisport\\CatalogExt\\": ""
+        }
+    }
+}
